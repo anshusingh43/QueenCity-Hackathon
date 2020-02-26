@@ -29,12 +29,12 @@ What we were not able to understand is that flow of money is huge in Charlotte a
 
 For this, after long discussion we agreed that we need to understand the mind of Charlotte community and its people which ead us to the idea of getting a Qualitative dataset which helps us answer WHY?
 
-#IDEA 
+## IDEA 
 
 We thought of something like -
-  1. Having a Charlotte voice platform where people feel comfotable in sharing why they are not trying to move from low living standard      to higher one with the help of Government and NGO.
-  2. Having a tool to take CLT Voice platform, CLT Open Data Platform, NGO data and our Qualitative survey and combine them to use the      data set for future analysis.
-  3. Creating a Gamified Phone Application for younger generation which provides them educational support and ask surveys in between,        inreturn giving them coupons or gift cards after every level or two.
+  - Having a Charlotte voice platform where people feel comfotable in sharing why they are not trying to move from low living standard     to higher one with the help of Government and NGO.
+  - Having a tool to take CLT Voice platform, CLT Open Data Platform, NGO data and our Qualitative survey and combine them to use the       data set for future analysis.
+  - Creating a Gamified Phone Application for younger generation which provides them educational support and ask surveys in between,       inreturn giving them coupons or gift cards after every level or two.
   
   <img width="594" alt="page3" src="https://user-images.githubusercontent.com/13045656/75359836-f5bcb800-5882-11ea-94de-7ddeedfc76bc.PNG">
 
