@@ -44,5 +44,8 @@ The process after gathering the dataset and combining them is -
 
 I guess main idea for us in this Hackathon was getting to answer the WHY ( why some people and community, don't want to move from poverty to a better living given all the help) which was missing and that can be generated using our CLT Voice platform and the gamified phone application. After that, it's all about the magic of Data Science. 
 
+To find the presentation on Tableau, go to https://public.tableau.com/profile/anshusingh#!/vizhome/QueenCityHackathon2020/UpwardOnwardOutlook
+
+
 
 
