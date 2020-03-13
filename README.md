@@ -46,6 +46,8 @@ I guess main idea for us in this Hackathon was getting to answer the WHY ( why s
 
 To find the presentation on Tableau, go to my [Tableau]( https://public.tableau.com/profile/anshusingh#!/vizhome/QueenCityHackathon2020/UpwardOnwardOutlook) page.
 
+For fun, just play the button on the right hand side and see the change yourself everyday!
+
 
 
 
